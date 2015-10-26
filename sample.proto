@@ -1,0 +1,5 @@
+package samplePackage;
+
+message Message {
+	optional string message = 1;
+}
