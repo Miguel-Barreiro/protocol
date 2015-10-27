@@ -2,4 +2,5 @@ package samplePackage;
 
 message Message {
 	optional string message = 1;
+	required string name = 2;
 }
